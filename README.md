@@ -1,0 +1,3 @@
+# Poker-Dice
+After a few months started with python this is my first idea for a game. 
+Poker Dice is a classical and a good memory from my infancy. The game I am sharing is not rigid on the rules of most versions of the game, it depends on the player how many hands will be played. All results are printed in the end of the game. More features are to be implemented, as comparison between hands to determine the highest hand and types of hand such as pairs or fours, for example. There is a function implemented to render the output more friendly. The random module and sort() function where used in the game.
